@@ -1,0 +1,29 @@
+{
+    "workbench.editor.untitled.hint": "hidden",
+    "[dart]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.rulers": [80],
+      "editor.selectionHighlight": false,
+      "editor.suggest.snippetsPreventQuickSuggestions": false,
+      "editor.suggestSelection": "first",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": false,
+      "editor.fontLigatures": true
+    },
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "files.associations": {
+      "*.dart": "dart"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${appName:}Muhammad Kamran Nazir",
+    "editor.fontFamily": "'cascadia', Consolas, 'Courier New', monospace",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.lineHeight": 2,
+    "editor.mouseWheelZoom": true,
+  
+    "workbench.colorTheme": "Community Material Theme Ocean High Contrast"
+  }
+  
